@@ -1,0 +1,6 @@
+name: LibLoader
+version: '${version}'
+main: org.lynxroid.jblee.libloader.LibLoader
+api-version: 1.16
+authors: [ JB_Lee ]
+description: Library Loader
